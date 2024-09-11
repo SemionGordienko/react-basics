@@ -1,0 +1,28 @@
+.Button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 6px;
+    margin: 3px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Button:hover {
+    background-color: rgb(58, 58, 58);
+}
+
+.Button:active {
+    background-color: white;
+    color: black;
+}
+
+.ButtonActive {
+    background-color: rgb(109, 109, 109);
+    color: white;
+    border: none;
+    padding: 6px;
+    margin: 3px;
+    border-radius: 5px;
+    cursor: pointer;
+}
